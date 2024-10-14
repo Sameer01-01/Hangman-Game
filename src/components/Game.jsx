@@ -153,9 +153,7 @@ function Game({
         >
           {hiddenWord}
         </div>
-        <div className="hint w-12 text-3xl my-1 text-blue-300 bg-custom-black flex justify-center items-center ml-2 rounded-lg opacity-30 cursor-pointer">
-          ?
-        </div>
+        
       </div>
       <div
         id="alphabet"
