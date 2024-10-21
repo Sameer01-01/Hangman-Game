@@ -116,7 +116,7 @@ const words = [
   "BIN",
   "SHEET",
   "LEAF",
-]; // Sample words, extend as needed
+]; 
 
 function App() {
   const [currentView, setCurrentView] = useState("menu");
